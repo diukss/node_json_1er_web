@@ -1,0 +1,11 @@
+{
+  "name": "proyecto-webserver",
+  "version": "1.0.0",
+  "description": "Proyecto CursoNODEJS",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "nodemon src/app.jsnp"
+  },
+  "author": "Lucas Gonzalez",
+  "license": "ISC"
+}
